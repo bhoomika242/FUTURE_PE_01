@@ -1,0 +1,30 @@
+PROMPT FRAMEWORK
+
+Business Name: Celira
+
+Business Type:
+Fashion and Lifestyle Brand
+
+Products:
+- Trendy Western Wear
+- Shoes
+- Bags
+- Men's Fashion
+- Women's Fashion
+
+Target Audience:
+Men and Women aged 15+
+
+Brand Tone:
+Modern, Stylish, Trendy, Premium yet Affordable
+
+Objective:
+Generate conversion-focused website copy that encourages customers to explore collections and make purchases.
+
+Generate:
+1. Homepage Headline
+2. Homepage Subheadline
+3. About Us Section
+4. Featured Collections Section
+5. Why Choose Celira Section
+6. Call-To-Action Section
