@@ -1,0 +1,20 @@
+Create website copy for a fashion and lifestyle brand called Celira.
+
+About the brand:
+Celira sells trendy western wear, shoes, bags, and fashion accessories for men and women aged 15 and above.
+
+Target audience:
+Fashion-conscious customers looking for stylish, modern, and affordable fashion.
+
+Brand personality:
+Trendy, modern, luxury-inspired, stylish, and affordable.
+
+Generate:
+1. Homepage headline
+2. Homepage subheadline
+3. About Us section
+4. Featured Collections section
+5. Why Choose Celira section
+6. Call-To-Action section
+
+The content should be engaging, customer-friendly, and suitable for a real e-commerce website.
