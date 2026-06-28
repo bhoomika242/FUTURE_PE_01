@@ -55,9 +55,8 @@ The website targets customers aged 15 and above who seek stylish, modern, and af
 - Call-to-Action Section
 
 ---
+## 🌐 Live Website Link
 
-## Live Preview
+View the live Celira website here:
 
-Visit the website here:
-
-https://cleria-clothing-website.vercel.app/pt Engineering Internship
+https://cleria-clothing-website.vercel.app/
