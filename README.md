@@ -1,50 +1,63 @@
-# FUTURE_PE_01 – AI Website Copy Generator for Local Businesses
+# Task 1 – AI Website Copy Generator for Fashion Brand
+
+## Celira | Future Interns – Prompt Engineering Track
+
+### Internship Details
+
+| Field | Details |
+|-------|---------|
+| Track | Prompt Engineering (PE) |
+| Repository | FUTURE_PE_01 |
+| Task | AI Website Copy Generator |
+| Tool Used | ChatGPT, GitHub, Vercel |
+| Business | Celira Fashion & Lifestyle Brand |
+
+---
+
+## Live Website Link
+
+🔗 https://cleria-clothing-website.vercel.app/
+
+---
 
 ## Project Overview
 
-This project was completed as part of the Prompt Engineering Internship by Future Interns.
+This project was created as part of the Future Interns Prompt Engineering Internship.
 
-The objective was to design a structured prompt system capable of generating high-quality website copy for a business using AI tools.
+The objective was to use prompt engineering techniques and AI tools to create professional website content for a modern fashion and lifestyle brand called Celira.
 
-## Business Chosen
+Celira is a trendy and affordable luxury-inspired fashion brand that offers:
 
-**Celira** – A modern fashion and lifestyle brand offering trendy western wear, shoes, bags, and accessories for men and women aged 15 and above.
+- Women's Fashion
+- Men's Fashion
+- Footwear
+- Bags
+- Fashion Accessories
 
-## Objective
+The website targets customers aged 15 and above who seek stylish, modern, and affordable fashion.
 
-To generate conversion-focused website content including:
-
-- Homepage copy
-- Featured collections content
-- Brand messaging
-- Call-to-action sections
-
-## Prompt Engineering Approach
-
-The project was completed using a structured workflow:
-
-1. Business Analysis
-2. Prompt Framework Design
-3. Prompt Creation
-4. AI Content Generation
-5. Output Evaluation
+---
 
 ## Tools Used
 
-- ChatGPT
-- GitHub
+- ChatGPT – Prompt generation and content creation
+- GitHub – Repository management and documentation
+- Vercel – Website deployment and hosting
 
-## Repository Contents
+---
 
-- prompt_framework.txt
-- final_prompt.txt
-- generated_output.txt
+## Website Sections Created
 
-## Learning Outcomes
+- Homepage Hero Section
+- About Us
+- Featured Collections
+- Why Choose Celira
+- Call-to-Action Section
 
-Through this project, I learned how prompt engineering can be used to generate professional website content efficiently. I also learned the importance of providing business context, audience details, and brand tone when designing prompts to improve AI-generated outputs.
+---
 
-## Author
+## Live Preview
 
-Bhoomika Shetty
-Future Interns – Prompt Engineering Internship
+Visit the website here:
+
+https://cleria-clothing-website.vercel.app/pt Engineering Internship
